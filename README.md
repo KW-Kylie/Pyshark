@@ -5,4 +5,4 @@ Network sniffer via Pyshark
 pip3 install pyshark
 
 # LiveCapture(livecap.py)
-  run the livecap.py
+  Run the livecap.py, and it will capture the interface's live packets.
